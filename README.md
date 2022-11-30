@@ -1,6 +1,6 @@
 - 👋 Hi, I’m khumoyun erkinov
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning full-stack and Frontend Developer
+- 🌱 I’m currently learning full-stack and backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
